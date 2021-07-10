@@ -1,5 +1,3 @@
-# Password_Generator
-
 import random
 
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
